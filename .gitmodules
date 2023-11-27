@@ -1,0 +1,3 @@
+[submodule "shell00"]
+	path = shell00
+	url = ../shell00
